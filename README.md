@@ -1,5 +1,18 @@
-### Hi there! 👋 
-I'm `Tylor` (Dark-Xploit), a developer passionate about AI, chatbots and coding. I love working on projects related to WhatsApp bots, AI-driven solutions and open-source technologies. Currently, I'm focusing on enhancing my `CypherX` project.
+### Hey there! 👋 
+I'm **Tylor (also known by the GitHub username Dark-Xploit)**, a 19 year-old Computer Science student and hobby developer passionate about **AI, chatbots, and automation**.  
+
+I love building **WhatsApp bots**, **AI-driven solutions**, and contributing to **open-source technologies** that make automation smarter and more accessible.  
+
+Currently, I'm focused on:
+- Enhancing **[CypherX](https://github.com/Dark-Xploit/CypherX)**: my advanced, modular WhatsApp automation bot.  
+- Maintaining the **CypherX Hosting Platform**, a seamless way for users to host and manage their own bot and web apps easily.  
+
+Beyond coding, you'll probably find me:
+- Gaming or exploring new tech
+- Hiking and discovering cool places
+- Eating (a lot, honestly 😅)
+- Watching movies or anime
+- Researching random stuff that somehow turns into a side project  
 
 
 ### MY STATS:
