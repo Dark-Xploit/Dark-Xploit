@@ -1,5 +1,5 @@
 ### Hey there! 👋 
-I'm **Tylor (also known by the GitHub username Dark-Xploit)**, a 19 year-old Computer Science student and hobby developer passionate about **AI, chatbots, and automation**.  
+I'm **Tylor (also known by the GitHub username Dark-Xploit)**, a 20 year-old Computer Science student and hobby developer passionate about **AI, chatbots, and automation**.  
 
 I love building **WhatsApp bots**, **AI-driven solutions**, and contributing to **open-source technologies** that make automation smarter and more accessible.  
 
