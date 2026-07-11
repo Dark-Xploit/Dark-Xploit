@@ -12,11 +12,6 @@ I love building **WhatsApp bots**, **AI-driven solutions**, and contributing to 
 
 <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Dark-Xploit&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 
-### GITHUB TROPHIES
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=Dark-Xploit)
-
-
-
 ### TOP CONTRIBUTIONS
 ![](https://github-contributor-stats.vercel.app/api?username=Dark-Xploit&limit=5&theme=black&combine_all_yearly_contributions=true)
 
