@@ -10,6 +10,12 @@ I love building **WhatsApp bots**, **AI-driven solutions**, and contributing to 
 
 <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Dark-Xploit&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 
+[![committers.top badge](https://user-badge.committers.top/kenya_private/Dark-Xploit.svg)](https://user-badge.committers.top/kenya_private/Dark-Xploit)
+
+[![committers.top badge](https://user-badge.committers.top/kenya_public/Dark-Xploit.svg)](https://user-badge.committers.top/kenya_public/Dark-Xploit)
+
+[![committers.top badge](https://user-badge.committers.top/kenya/Dark-Xploit.svg)](https://user-badge.committers.top/kenya/Dark-Xploit)
+
 ### TOP CONTRIBUTIONS
 ![](https://github-contributor-stats.vercel.app/api?username=Dark-Xploit&limit=5&theme=black&combine_all_yearly_contributions=true)
 
